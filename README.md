@@ -34,8 +34,20 @@ After that, we can run the program:
 $ ./my_prog.native
 ```
 
+Opam
+----
+
+[Opam](https://opam.ocaml.org/) is a package manager for Ocaml.
+
+It can be installed with command:
+
+```
+sudo apt-get install opam
+```
+
 References
 ----------
 
 - [Official website of Ocaml](https://ocaml.org)
 - [Learn Ocaml](https://ocaml.org/learn/)
+- [So you're learning Ocaml](http://hyegar.com/blog/2015/10/19/so-you%27re-learning-ocaml/)
